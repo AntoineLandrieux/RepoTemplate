@@ -1,0 +1,24 @@
+#
+# Antoine LANDRIEUX (MIT License) <.gitignore>
+# <https://github.com/AntoineLandrieux/RepoTemplate/>
+#
+
+# IDE
+
+.vscode/
+.idea/
+
+# TMP
+
+bin/
+lib/
+min/
+tmp/
+
+# BIN
+
+*.a
+*.o
+*.bin
+*.exe
+*.res

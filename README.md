@@ -19,3 +19,7 @@ Contributions are most welcome by forking the repository and sending a pull requ
 ## Credit
 
 See **[AUTHORS file](AUTHORS)**
+
+**Contributors :**
+
+![contributors](https://contrib.rocks/image?repo=AntoineLandrieux/RepoTemplate)

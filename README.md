@@ -7,16 +7,16 @@ RepoTemplate is distributed under the [MIT LICENSE](LICENSE).
 
 ---
 
-## Documentation
+## 📖 Documentation
 
 See [RepoTemplate Documentation](doc/documentation.md)
 
-## Contributing
+## 🤲 Contributing
 
 The RepoTemplate source code is located in the Git repository at [github.com/AntoineLandrieux/RepoTemplate](https://github.com/AntoineLandrieux/RepoTemplate/).
 Contributions are most welcome by forking the repository and sending a pull request.
 
-## Credit
+## 📜 Credit
 
 See **[AUTHORS file](AUTHORS)**
 

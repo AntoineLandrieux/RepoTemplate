@@ -10,7 +10,7 @@ RepoTemplate is distributed under the [MIT LICENSE](LICENSE).
 ## 📖 Documentation
 
 > [!IMPORTANT]  
-> See [RepoTemplate Documentation](doc/documentation.md) and [RepoTemplate Changelog](CHANGELOG.md)
+> See [RepoTemplate Documentation](doc/documentation.md) and [RepoTemplate Changelog](CHANGELOG)
 
 ## 🤲 Contributing
 

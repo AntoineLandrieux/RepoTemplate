@@ -1,0 +1,8 @@
+
+# RepoTemplate Changelog
+
+---
+
+- **v1.0.0**
+
+First RepoTemplate release

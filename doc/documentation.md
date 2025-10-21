@@ -1,4 +1,4 @@
 
-# Documentation
+# RepoTemplate documentation
 
-I am a dummy file !
+---

@@ -1,9 +1,7 @@
 
-# RepoTemplate
+# ![RepoTemplate](resources/github/icon/icon.svg) RepoTemplate
 
-![RepoTemplate](resources/github/logo.svg)
-
-RepoTemplate is distributed under the [MIT LICENSE](LICENSE).
+RepoTemplate is distributed under the [WTFPL](LICENSE).
 
 ---
 
